@@ -14,3 +14,7 @@ best practices.
 
 Below you will find two screenshots of the SPA. The first is the graph with the region filtering options. The second is the map
 that provides a visual representation of the data.
+
+![Alt text](sherlockgraph.png)
+
+![Alt text](sherlockmap.png)
